@@ -1,0 +1,2 @@
+# blogomatic
+Begin app
